@@ -23,6 +23,7 @@ pip install -r requirements.txt
 
 ## Usage
 Run the main script to start the analysis:
+python train.py
 
 ## Technologies
 - Python: For data processing and machine learning.
