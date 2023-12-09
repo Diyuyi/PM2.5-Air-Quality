@@ -16,10 +16,10 @@ This project leverages data science to analyze PM2.5 - fine particulate matter -
 - pip package manager
 
 ### Installation
-Clone the repository and install dependencies:
-git clone https://github.com/Diyuyi/PM2.5-Air-Quality.git
-cd PM2.5-Air-Quality
-pip install -r requirements.txt
+- Clone the repository and install dependencies:
+- git clone https://github.com/Diyuyi/PM2.5-Air-Quality.git
+- cd PM2.5-Air-Quality
+- pip install -r requirements.txt
 
 ## Usage
 Run the main script to start the analysis:
